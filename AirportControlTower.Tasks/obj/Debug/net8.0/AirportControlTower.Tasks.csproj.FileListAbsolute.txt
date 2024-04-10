@@ -1,0 +1,11 @@
+C:\Users\T-plug\Desktop\CODE\Test\AirportControlTower.Tasks\bin\Debug\net8.0\AirportControlTower.Tasks.deps.json
+C:\Users\T-plug\Desktop\CODE\Test\AirportControlTower.Tasks\bin\Debug\net8.0\AirportControlTower.Tasks.dll
+C:\Users\T-plug\Desktop\CODE\Test\AirportControlTower.Tasks\bin\Debug\net8.0\AirportControlTower.Tasks.pdb
+C:\Users\T-plug\Desktop\CODE\Test\AirportControlTower.Tasks\obj\Debug\net8.0\AirportControlTower.Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-plug\Desktop\CODE\Test\AirportControlTower.Tasks\obj\Debug\net8.0\AirportControlTower.Tasks.AssemblyInfoInputs.cache
+C:\Users\T-plug\Desktop\CODE\Test\AirportControlTower.Tasks\obj\Debug\net8.0\AirportControlTower.Tasks.AssemblyInfo.cs
+C:\Users\T-plug\Desktop\CODE\Test\AirportControlTower.Tasks\obj\Debug\net8.0\AirportControlTower.Tasks.csproj.CoreCompileInputs.cache
+C:\Users\T-plug\Desktop\CODE\Test\AirportControlTower.Tasks\obj\Debug\net8.0\AirportControlTower.Tasks.dll
+C:\Users\T-plug\Desktop\CODE\Test\AirportControlTower.Tasks\obj\Debug\net8.0\refint\AirportControlTower.Tasks.dll
+C:\Users\T-plug\Desktop\CODE\Test\AirportControlTower.Tasks\obj\Debug\net8.0\AirportControlTower.Tasks.pdb
+C:\Users\T-plug\Desktop\CODE\Test\AirportControlTower.Tasks\obj\Debug\net8.0\ref\AirportControlTower.Tasks.dll

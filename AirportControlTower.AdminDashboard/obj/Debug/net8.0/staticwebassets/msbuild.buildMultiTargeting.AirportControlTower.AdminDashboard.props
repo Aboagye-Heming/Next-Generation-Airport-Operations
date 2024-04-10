@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AirportControlTower.AdminDashboard.props" />
+</Project>

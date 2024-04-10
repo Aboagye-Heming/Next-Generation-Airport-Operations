@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AirportControlTower.AdminDashboard/1.0.0": {
+        "runtime": {
+          "AirportControlTower.AdminDashboard.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AirportControlTower.AdminDashboard/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

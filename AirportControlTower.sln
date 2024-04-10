@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirportControlTower.API", "AirportControlTower.API\AirportControlTower.API.csproj", "{3C6895D9-F8B4-4DE5-930E-DF64E3625967}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirportControlTower.AdminDashboard", "AirportControlTower.AdminDashboard\AirportControlTower.AdminDashboard.csproj", "{3D0E67E9-0646-408A-AAE5-53A98E9879D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirportControlTower.Tasks", "AirportControlTower.Tasks\AirportControlTower.Tasks.csproj", "{316D632F-A2D9-4FD7-8355-C2F005D29A35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C6895D9-F8B4-4DE5-930E-DF64E3625967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C6895D9-F8B4-4DE5-930E-DF64E3625967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C6895D9-F8B4-4DE5-930E-DF64E3625967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C6895D9-F8B4-4DE5-930E-DF64E3625967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D0E67E9-0646-408A-AAE5-53A98E9879D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D0E67E9-0646-408A-AAE5-53A98E9879D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D0E67E9-0646-408A-AAE5-53A98E9879D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D0E67E9-0646-408A-AAE5-53A98E9879D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{316D632F-A2D9-4FD7-8355-C2F005D29A35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{316D632F-A2D9-4FD7-8355-C2F005D29A35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{316D632F-A2D9-4FD7-8355-C2F005D29A35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{316D632F-A2D9-4FD7-8355-C2F005D29A35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

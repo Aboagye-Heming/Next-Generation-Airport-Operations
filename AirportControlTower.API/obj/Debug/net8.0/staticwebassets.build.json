@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IXDPbwqE8nfo74cgvOyKfWe+GVCu3x7svcYuY5F9pX8=",
+  "Source": "AirportControlTower.API",
+  "BasePath": "_content/AirportControlTower.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -28,3 +28,4 @@ C:\Users\T-plug\Desktop\CODE\Test\AirportControlTower.AdminDashboard\obj\Debug\n
 C:\Users\T-plug\Desktop\CODE\Test\AirportControlTower.AdminDashboard\obj\Debug\net8.0\AirportControlTower.AdminDashboard.pdb
 C:\Users\T-plug\Desktop\CODE\Test\AirportControlTower.AdminDashboard\obj\Debug\net8.0\AirportControlTower.AdminDashboard.genruntimeconfig.cache
 C:\Users\T-plug\Desktop\CODE\Test\AirportControlTower.AdminDashboard\obj\Debug\net8.0\ref\AirportControlTower.AdminDashboard.dll
+C:\Users\T-plug\Desktop\CODE\Test\AirportControlTower.AdminDashboard\obj\Debug\net8.0\AirportControlTower.AdminDashboard.sourcelink.json

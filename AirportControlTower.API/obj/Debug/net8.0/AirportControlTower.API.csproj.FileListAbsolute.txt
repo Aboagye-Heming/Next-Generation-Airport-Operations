@@ -31,3 +31,4 @@ C:\Users\T-plug\Desktop\CODE\Test\AirportControlTower.API\obj\Debug\net8.0\refin
 C:\Users\T-plug\Desktop\CODE\Test\AirportControlTower.API\obj\Debug\net8.0\AirportControlTower.API.pdb
 C:\Users\T-plug\Desktop\CODE\Test\AirportControlTower.API\obj\Debug\net8.0\AirportControlTower.API.genruntimeconfig.cache
 C:\Users\T-plug\Desktop\CODE\Test\AirportControlTower.API\obj\Debug\net8.0\ref\AirportControlTower.API.dll
+C:\Users\T-plug\Desktop\CODE\Test\AirportControlTower.API\obj\Debug\net8.0\AirportControlTower.API.sourcelink.json

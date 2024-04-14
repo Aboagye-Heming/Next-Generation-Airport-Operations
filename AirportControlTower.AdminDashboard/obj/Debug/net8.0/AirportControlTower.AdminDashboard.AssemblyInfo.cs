@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AirportControlTower.AdminDashboard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2142bd11cfe98e39e6a480ec834b25341a11e74c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c0de97e6189559d7385113bddaaa55557404b82")]
 [assembly: System.Reflection.AssemblyProductAttribute("AirportControlTower.AdminDashboard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AirportControlTower.AdminDashboard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

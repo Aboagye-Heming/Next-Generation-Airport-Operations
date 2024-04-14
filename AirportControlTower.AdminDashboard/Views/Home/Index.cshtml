@@ -2,7 +2,36 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Login</title>
+    <link rel="stylesheet" type="text/css" href="~/Content/site.css">
+</head>
+<body>
+    <div class="container-fluid wrapper">
+        <div class="row d-flex align-items-center justify-content-between">
+            <div class="col-lg-6 form d-flex align-items-center justify-content-between">
+                <div class="form__inner ml-3">
+                    <h1 class="form__title">Login</h1>
+                    @using (Html.BeginForm("Authenticate", "Account", FormMethod.Post, new { @class = "form-horizontal" }))
+                    {
+                        <div class="form-group mb-3 ml-3">
+                            @Html.TextBoxFor(m => m.Username, new { @class = "form-control form-control-lg", placeholder = "Username" })
+                        </div>
+                        <div class="form-group mb-3">
+                            @Html.PasswordFor(m => m.Password, new { @class = "form-control form-control-lg", placeholder = "Password" })
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-lg">Submit</button>
+                    }
+                </div>
+            </div>
+            <div class="col-lg-6 d-none d-lg-block image-wrapper" style="height: 100vh;">
+                <img src="~/assets/images/login-img.png" alt="logo" class="img-fluid w-100 h-100" />
+            </div>
+        </div>
+    </div>
+</body>
+</html>
